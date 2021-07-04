@@ -1,0 +1,57 @@
+body
+{
+    text-align: center;
+    background-color: aquamarine;
+}
+
+.line {
+    height: 6px;
+    background-color: black;
+    width: 70px;
+    margin: 8px auto;
+}
+#nh
+{
+    font-size: 100px;
+    color: bisque;
+
+}
+#para
+{
+    font-family: 'Roboto', sans-serif;
+}
+#welcome {
+    
+    background: linear-gradient(#60ebeb 0%, #27ae60 100%);
+    display: table;
+    width: 100%;
+    height: 100%;
+}
+#image1
+{
+    border-style: solid;
+    border-color: #212121;
+    border: 5px;
+    border-radius: 0px;
+    padding: 5px;
+    width: 450px;
+}
+
+
+#album{
+    border-style: solid;
+    border-color: #212121;
+    border: 5px;
+    border-radius: 0px;
+    padding: 5px;
+    width: 450px;
+}
+button
+{
+   border-style: solid;
+    border-color: #212121;
+    border: 5px;
+    border-radius: 0px;
+    padding: 5px;
+    width: 50px; 
+}
